@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "architect": {
+      "source": "pawanannepu/pk-skills",
+      "sourceType": "github",
+      "skillPath": "architect/SKILL.md",
+      "computedHash": "f3d65b0649615bc1d79015e96acf4f3f1e81c3fd87da61073c3077191cbfded6"
+    },
+    "imprint": {
+      "source": "pawanannepu/pk-skills",
+      "sourceType": "github",
+      "skillPath": "imprint/SKILL.md",
+      "computedHash": "e6d8706da60dfe1695a3dbf7e3b10b648520007fdd283869e7b730825dca8ad1"
+    },
+    "recover": {
+      "source": "pawanannepu/pk-skills",
+      "sourceType": "github",
+      "skillPath": "recover/SKILL.md",
+      "computedHash": "b7b39c7dae5f9368b558b412a8e9405ce12116a6c31034d80ada666129cb4610"
+    },
+    "remember": {
+      "source": "pawanannepu/pk-skills",
+      "sourceType": "github",
+      "skillPath": "remember/SKILL.md",
+      "computedHash": "6fa0cc582ff7cda2dd067eb2e3d7d9f85a83e0cdf46f1133c9ff3369e5bd0fd2"
+    },
+    "review": {
+      "source": "pawanannepu/pk-skills",
+      "sourceType": "github",
+      "skillPath": "review/SKILL.md",
+      "computedHash": "dd07f172a3c29a66e8c5b78c448bd861b812516bd9f4c4e59eef8bc3ae55a52b"
+    }
+  }
+}
