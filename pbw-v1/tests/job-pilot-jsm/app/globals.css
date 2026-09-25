@@ -87,3 +87,30 @@
     font-family: var(--font-sans);
   }
 }
+
+.bg-diagonal-pattern {
+  background-color: var(--color-surface-secondary);
+  background-image: repeating-linear-gradient(
+    -45deg,
+    transparent,
+    transparent 8px,
+    var(--color-border) 8px,
+    var(--color-border) 9px
+  );
+}
+
+.bg-hero-glow {
+  background:
+    radial-gradient(ellipse 65% 55% at 15% 12%, var(--color-info-light) 0%, transparent 65%),
+    radial-gradient(ellipse 65% 55% at 85% 12%, var(--color-accent-light) 0%, transparent 65%),
+    radial-gradient(ellipse 85% 65% at 50% 25%, var(--color-surface) 0%, transparent 100%),
+    var(--color-background);
+}
+
+.bg-cta-glow {
+  background:
+    radial-gradient(ellipse 70% 60% at 20% 35%, var(--color-info-light) 0%, transparent 65%),
+    radial-gradient(ellipse 70% 60% at 80% 35%, var(--color-accent-light) 0%, transparent 65%),
+    var(--color-surface-muted);
+}
+
